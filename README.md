@@ -57,5 +57,10 @@ Link to the website: https://eventschedulersite.000webhostapp.com/index.php
 ![image](https://user-images.githubusercontent.com/70191477/193831653-d1a3d37c-b6db-4b33-8591-c86dc8b8c69a.png)
 ![image](https://user-images.githubusercontent.com/70191477/193831675-d6e3603c-f75c-4f33-9c7f-423d3736b221.png)
 
-
+Teammates:
+Sanjeev R 1BO19CS093,
+Sneha R 1BO19CS099,
+Sarvesh Sutej Labdhe 1BO19CS095,
+ K Suraj 1BO19CS107,
+Maaz 1BO19CS110.
 
